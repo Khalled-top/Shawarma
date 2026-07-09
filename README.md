@@ -20,12 +20,12 @@ A shawarma restaurant has many security challenges:
 ~ The secret tom "Garlic" sauce recipe needs confidentiality.
 ~ The shawarma machine needs availability.
 ~ Customer orders need integrity.
-
+##
 These are the same principles used in cybersecurity:
-~ Confidentiality → Protect the secret recipe.
-~ Integrity → Don't replace chicken with something suspicious.
-~ Availability → The shawarma shop must always be online.
-
+~ Confidentiality: Protect the secret recipe.
+~ Integrity:  Don't replace chicken with something suspicious.
+~ Availability: The shawarma shop must always be online.
+##
 Features:
 ~ Firewall for hungry customers.
 ~ Encryption for secret recipes.

@@ -1,0 +1,15 @@
+###The Shawarma Security Event 
+
+It was just another day at the Shawarma Cyber Restaurant. Customers ordered their favorite meals and the digital shawarma system worked like a charm.
+
+And then suddenly the security team saw something bizarre. Someone was trying to get into the secret sauce database. The attacker was certain that by stealing the sauce recipe they would become the best shawarma chef in the world.
+
+the security team began an investigation into the incident. The attacker used social engineering, posing as a new employee who needed access to the recipe system, they found.
+
+the team quickly disabled the rogue account and reviewed the system logs. Encryption protected the sensitive data, so they learned the recipe wasn’t stolen.
+
+Following the incident, the Shawarma Cyber Restaurant beefed up its security. They implemented more robust authentication, reduced user permissions, and carried out regular backups.
+
+The main lesson was that even a shawarma place needs cybersecurity. Just like any other valuable information, it is equally important to protect secret recipes, customer orders and digital systems.
+
+The restaurant keeps serving secure shawarma while fending off future cyber attacks.

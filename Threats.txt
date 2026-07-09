@@ -1,0 +1,70 @@
+##Shawarma Security Threat Model:
+##
+Threat 1:
+A hacker tries to steal the secret sauce recipe.
+
+Impact:
+Loss of confidentiality because the secret recipe becomes public.
+
+Mitigation:
+Encrypt the recipe and store it securely.
+
+##
+Threat 2:
+Someone orders shawarma without garlic sauce !!!!
+
+Security Impact:
+Integrity issue because the original shawarma configuration was modified.
+
+Mitigation:
+Verify customer preferences before preparing the order.
+
+##
+Threat 3:
+The shawarma machine rans out of power during lunch time.
+
+Security Impact:
+Availability issue because the service becomes unavailable.
+
+Mitigation:
+Use backup power systems.
+
+##
+Threat 4:
+A fake shawarma shop creates a copy of the original recipe.
+
+Security Impact:
+Brand impersonation and reputation damage.
+
+Mitigation:
+Use authentication methods and protect the original recipe.
+
+##
+Threat 5:
+An employee accidentally shares the secret sauce password.
+
+Security Impact:
+Unauthorized access to sensitive information.
+
+Mitigation:
+Apply access control and limit who can view secrets.
+
+##
+Threat 6:
+A customer tries to receive extra shawarma without a valid order.
+
+Security Impact:
+Unauthorized access attempt.
+
+Mitigation:
+Implement order verification before serving.
+
+##
+Threat 7:
+The shawarma delivery system gets attacked by too many fake orders.
+
+Security Impact:
+Denial of Service (DoS) because real customers cannot place orders.
+
+Mitigation:
+Use rate limiting and traffic monitoring.

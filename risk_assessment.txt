@@ -1,0 +1,37 @@
+###Shawarma Risk Assessment
+
+Risk 1:
+Secret Recipe Theft
+
+Probability:
+High
+
+Impact:
+High
+
+Risk Level:
+Critical
+---
+Risk 2:
+Fake Customer Accounts
+
+Probability:
+Medium
+
+Impact:
+Medium
+
+Risk Level:
+Moderate
+---
+Risk 3:
+Server Failure
+
+Probability:
+Low
+
+Impact:
+High
+
+Risk Level:
+Medium
